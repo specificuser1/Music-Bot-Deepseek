@@ -1,0 +1,39 @@
+require('dotenv').config();
+
+module.exports = {
+    token: process.env.TOKEN,
+    clientId: process.env.CLIENT_ID,
+    guildId: process.env.GUILD_ID,
+    
+    // Bot Configuration
+    prefix: '.',
+    defaultVolume: 80,
+    maxVolume: 100,
+    
+    // Music Settings
+    leaveOnEnd: true,
+    leaveOnEndCooldown: 60000,
+    leaveOnEmpty: true,
+    leaveOnEmptyCooldown: 30000,
+    
+    // Spotify
+    spotify: {
+        clientId: process.env.SPOTIFY_CLIENT_ID || null,
+        clientSecret: process.env.SPOTIFY_CLIENT_SECRET || null,
+    },
+    
+    // YouTube Cookie
+    youtubeCookie: process.env.YOUTUBE_COOKIE || null,
+    
+    // Auto-complete
+    autoComplete: true,
+    
+    // Colors
+    colors: {
+        success: 0x57F287, // Green
+        error: 0xED4245,   // Red
+        warning: 0xFEE75C,  // Yellow
+        info: 0x5865F2,     // Blue
+        default: 0x2B2D31   // Discord Dark
+    }
+};
