@@ -1,0 +1,51 @@
+{
+    "music": {
+        "play": "<:music_play:1196054995749371904>",
+        "pause": "<:music_pause:1196054997218967703>",
+        "resume": "<:music_resume:1196054999043997786>",
+        "stop": "<:music_stop:1196055000509415424>",
+        "skip": "<:music_skip:1196055001838653551>",
+        "queue": "<:music_queue:1196055003312357376>",
+        "volume": "<:music_volume:1196055004756394039>",
+        "loop": "<:music_loop:1196055006225920031>",
+        "shuffle": "<:music_shuffle:1196055007695442061>",
+        "lyrics": "<:music_lyrics:1196055009177522257>",
+        "search": "<:music_search:1196055010630922250>",
+        "delete": "<:music_delete:1196055012108836966>"
+    },
+    "status": {
+        "success": "<:success:1196055013582557274>",
+        "error": "<:error:1196055015052087306>",
+        "warning": "<:warning:1196055016521617449>",
+        "loading": "<a:loading:1196055075404329061>",
+        "online": "<:online:1196055017970819162>",
+        "idle": "<:idle:1196055019448737882>",
+        "dnd": "<:dnd:1196055020922458222>",
+        "offline": "<:offline:1196055022396182630>"
+    },
+    "platforms": {
+        "youtube": "<:youtube:1196055023869906944>",
+        "spotify": "<:spotify:1196055025343631461>",
+        "soundcloud": "<:soundcloud:1196055026813165598>",
+        "apple": "<:apple_music:1196055028286890014>",
+        "deezer": "<:deezer:1196055029756416022>"
+    },
+    "controls": {
+        "first": "<:first_page:1196055031225942057>",
+        "prev": "<:prev_page:1196055032699662499>",
+        "next": "<:next_page:1196055034169188503>",
+        "last": "<:last_page:1196055035638718484>",
+        "refresh": "<:refresh:1196055037108252672>"
+    },
+    "misc": {
+        "bot": "<:bot:1196055038581972992>",
+        "music_note": "<:music_note:1196055040051490957>",
+        "discord": "<:discord:1196055041521012837>",
+        "github": "<:github:1196055042990530651>",
+        "heart": "<:heart:1196055044460052490>",
+        "star": "<:star:1196055045933776957>",
+        "clock": "<:clock:1196055047403302962>",
+        "users": "<:users:1196055048872828948>",
+        "channel": "<:channel:1196055050346557571>"
+    }
+}
